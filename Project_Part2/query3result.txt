@@ -1,0 +1,7 @@
+docID:49      Similarity:6.11358568052938
+docID:96      Similarity:5.391675776522105
+docID:68      Similarity:4.522346591824212
+docID:98      Similarity:4.522346591824212
+docID:121      Similarity:4.522346591824212
+docID:183      Similarity:4.230267882712755
+docID:78      Similarity:4.230267882712755

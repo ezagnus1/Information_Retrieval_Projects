@@ -1,0 +1,10 @@
+docID:190      Similarity:5.048267005890382
+docID:8      Similarity:4.673787063071911
+docID:102      Similarity:4.673787063071911
+docID:145      Similarity:4.673787063071911
+docID:165      Similarity:4.673787063071911
+docID:26      Similarity:3.918298795268737
+docID:82      Similarity:3.918298795268737
+docID:38      Similarity:3.6276397815743695
+docID:186      Similarity:3.6276397815743695
+docID:18      Similarity:1.2983457289780516

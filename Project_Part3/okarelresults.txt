@@ -1,0 +1,4 @@
+query: europe => 165,152,164,177
+query: stock rally => 17,107
+query: debt crisis => 113,125
+query: stock future higher => 198,112
